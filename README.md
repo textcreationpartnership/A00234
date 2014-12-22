@@ -35,11 +35,38 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Newes out of France for the gentlemen of England a stratagem most ventrously attempted, and valiantl
+NEWES
+Out of France for the Gentlemen
+of England.
+A Stratagem moſt ventrouſly attempted, and valiant
 #####Body#####
-Newes out of France for the gentlemen of England a stratagem most ventrously attempted, and valiantl
+
+1. In laudem Angliae chariſsimae ſuae
+Patriae decaſticon.
+
+1. To his friends, the Gentlemen
+Readers of England,
+health.
+
+1. A Poem touching the credit of
+this Newes, with an item to them,
+that takes felicitie in publiſhing
+Lies.
+
+1. A Stratagem moſt venterouſly
+attempted, and valiantly atchieued
+by the French King, the 27. day of
+Iuly Anno Domini,
+1591.
+
 #####Back#####
-Newes out of France for the gentlemen of England a stratagem most ventrously attempted, and valiantl
+
+1. Epilogus.
+
+1. Precatio ad coeleſtem noſtrum
+Patrem miſeris hiſce
+temporibus.
+
 **Types of content**
 
   * There are 34 **verse** lines!
