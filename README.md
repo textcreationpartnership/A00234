@@ -35,38 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-NEWES
-Out of France for the Gentlemen
-of England.
-A Stratagem moſt ventrouſly attempted, and valiant
+Newes out of France for the gentlemen of England a stratagem most ventrously attempted, and valiantl
 #####Body#####
-
-1. In laudem Angliae chariſsimae ſuae
-Patriae decaſticon.
-
-1. To his friends, the Gentlemen
-Readers of England,
-health.
-
-1. A Poem touching the credit of
-this Newes, with an item to them,
-that takes felicitie in publiſhing
-Lies.
-
-1. A Stratagem moſt venterouſly
-attempted, and valiantly atchieued
-by the French King, the 27. day of
-Iuly Anno Domini,
-1591.
-
+Newes out of France for the gentlemen of England a stratagem most ventrously attempted, and valiantl
 #####Back#####
-
-1. Epilogus.
-
-1. Precatio ad coeleſtem noſtrum
-Patrem miſeris hiſce
-temporibus.
-
+Newes out of France for the gentlemen of England a stratagem most ventrously attempted, and valiantl
 **Types of content**
 
   * There are 34 **verse** lines!
@@ -103,32 +76,28 @@ There are 3 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), OCLC (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|8||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), OCLC (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|8||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -136,24 +105,21 @@ There are 3 **ommitted** fragments!
 |No|element name|occ|attributes|
 |---|---|---|---|
 |1.|__am__|7||
-|2.|__back__|1||
-|3.|__bibl__|2||
-|4.|__body__|1||
-|5.|__closer__|2||
-|6.|__desc__|3||
-|7.|__div__|7| @__type__ (7) : title_page (1), poem (2), dedication (1), to_the_reader (1), discourse (1), epilogue (1)|
-|8.|__epigraph__|2||
-|9.|__ex__|7||
-|10.|__expan__|7||
-|11.|__front__|1||
-|12.|__g__|137| @__ref__ (137) : char:EOLhyphen (121), char:abque (7), char:cmbAbbrStroke (6), char:punc (2), char:V (1)|
-|13.|__gap__|3| @__reason__ (3) : illegible: page cropped (1), illegible: blotted (2)  •  @__extent__ (3) : 1 span (1), 2+ letters (1), 5 letters (1)|
-|14.|__head__|6||
-|15.|__hi__|84| @__rend__ (3) : sup (3)|
-|16.|__l__|34||
-|17.|__lg__|2||
-|18.|__p__|15||
-|19.|__pb__|23| @__facs__ (23) : tcp:23599:1 (1), tcp:23599:2 (2), tcp:23599:3 (2), tcp:23599:4 (2), tcp:23599:5 (2), tcp:23599:6 (2), tcp:23599:7 (2), tcp:23599:8 (2), tcp:23599:9 (2), tcp:23599:10 (2), tcp:23599:11 (2), tcp:23599:12 (2)|
-|20.|__q__|3||
-|21.|__seg__|4| @__rend__ (4) : decorInit (4)|
-|22.|__signed__|2||
+|2.|__bibl__|2||
+|3.|__closer__|2||
+|4.|__desc__|3||
+|5.|__div__|7| @__type__ (7) : title_page (1), poem (2), dedication (1), to_the_reader (1), discourse (1), epilogue (1)|
+|6.|__epigraph__|2||
+|7.|__ex__|7||
+|8.|__expan__|7||
+|9.|__g__|137| @__ref__ (137) : char:EOLhyphen (121), char:abque (7), char:cmbAbbrStroke (6), char:punc (2), char:V (1)|
+|10.|__gap__|3| @__reason__ (3) : illegible: page cropped (1), illegible: blotted (2)  •  @__extent__ (3) : 1 span (1), 2+ letters (1), 5 letters (1)|
+|11.|__head__|6||
+|12.|__hi__|84| @__rend__ (3) : sup (3)|
+|13.|__l__|34||
+|14.|__lg__|2||
+|15.|__p__|15||
+|16.|__pb__|23| @__facs__ (23) : tcp:23599:1 (1), tcp:23599:2 (2), tcp:23599:3 (2), tcp:23599:4 (2), tcp:23599:5 (2), tcp:23599:6 (2), tcp:23599:7 (2), tcp:23599:8 (2), tcp:23599:9 (2), tcp:23599:10 (2), tcp:23599:11 (2), tcp:23599:12 (2)|
+|17.|__q__|3||
+|18.|__seg__|4| @__rend__ (4) : decorInit (4)|
+|19.|__signed__|2||
