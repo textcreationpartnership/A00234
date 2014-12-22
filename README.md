@@ -35,10 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-NEWES
-Out of France for the Gentlemen
-of England.
-A Stratagem moſt ventrouſly attempted, and valiant
+
 #####Body#####
 
 1. In laudem Angliae chariſsimae ſuae
